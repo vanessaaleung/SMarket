@@ -11,6 +11,8 @@ Features
 * Support English & Japanese
 * Available on iOS & Android platform
 
+<img src = "screenshot.png" height = "600">
+
 
 Watch the Intro Video 
 ============
