@@ -1,5 +1,5 @@
 # SMarket
-*SMarket is a mobile App that provides excellent experience to introduce Taiwanese night markets to foreign tourists.*
+SMarket is a mobile App that provides an excellent experience to introduce Taiwanese night markets to foreign tourists.
 
 <img src = "slide.png" width = "800">
 
